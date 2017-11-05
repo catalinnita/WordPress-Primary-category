@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: 10up - Primary Categories
-Plugin URI: http://www.10up.com
+Plugin Name: Primary Category
+Plugin URI: None yet
 Description: Let users select the primary category for a post
 Version: 1.0.0
 Author: Catalin Nita
-Author URI: http://www.10up.com
+Author URI: Catalin Nita
 License: GNU General Public License v2 or later
 */
 
